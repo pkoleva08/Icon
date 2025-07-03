@@ -1,5 +1,5 @@
 # PICTURE
-ICONS
+ICONS:
 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" alt="C Sharp" width="100" height="100"/>
@@ -10,7 +10,7 @@ ICONS
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="100" height="100"/>
 </p>
-PROGRAMS
+PROGRAMS:
 
 <p>
    &nbsp;&nbsp;
